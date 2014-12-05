@@ -101,12 +101,47 @@ jQuery
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ZBar 条码
 ==============
 [ZBar github](https://github.com/ZBar/ZBar)
 
 [ZBar sourceforge](http://sourceforge.net/projects/zbar/)
 
+[《打造极致二维码扫描系列》 -- ZBar开发详解](http://www.eoeandroid.com/thread-542132-1-1.html)
+
+[打造极致二维码扫描系列](http://blog.csdn.net/skillcollege)
+
+[《打造极致二维码扫描系列》 -- ZBar开发详解](http://chuansongme.com/n/626926)
+
+[打造极致二维码扫描](http://www.csdn.net/tag/zbarsdk)
+
+[ZBar bar code / QR code reader – Android »](http://www.blackdogfoundry.com/blog/zbar-bar-code-qr-code-reader-android/)
 
 
 
