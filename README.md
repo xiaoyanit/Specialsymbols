@@ -146,6 +146,25 @@ ZBar 条码
 
 
 
+TODO Parcelable在Android中的设计和实现
+==================
+[Android中Parcelable接口用法](http://www.cnblogs.com/renqingping/archive/2012/10/25/Parcelable.html)
+
+[[android] Serializable 和 Parcelable 区别](http://www.blogjava.net/lincode/archive/2011/09/16/358805.html)
+
+[Serializable Parcelable](http://www.cnblogs.com/lianghui66/archive/2013/03/05/2944589.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 从聊天记录抓取的github资源
 ===============================
